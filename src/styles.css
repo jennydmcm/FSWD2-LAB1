@@ -1,0 +1,15 @@
+.title {
+  text-align: center;
+}
+.story-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 50%;
+  box-shadow: 0 3px 5px #555;
+}
+.story-img img {
+  width: 75%;
+  display: block;
+  border: 2px solid white;
+}
